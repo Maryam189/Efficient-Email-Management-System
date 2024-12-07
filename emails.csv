@@ -1,0 +1,15 @@
+sender,recipient,subject,body,priority,category
+john@example.com,jane@example.com,Meeting Reminder,Do not forget about the meeting tomorrow at 10 AM.,3,inbox
+spammer@example.com,jane@example.com,Free Money!,Click here to claim your prize now!,1,spam
+boss@example.com,jane@example.com,Weekly Report,Please send your weekly report by Friday.,2,inbox
+hr@example.com,jane@example.com,Job Application Status,Your application is under review.,4,inbox
+spammer2@example.com,jane@example.com,You've won!,Claim your free vacation package now!,1,spam
+friend@example.com,jane@example.com,Weekend Plans,Let's catch up over the weekend.,5,inbox
+jane@example.com,john@example.com,Re: Meeting Reminder,Sure! I'll be there at 10 AM,2,sent
+john@example.com,boss@example.com,Monthly Report,Attached is the monthly report.,2,outbox
+teamlead@example.com,jane@example.com,Project Update,The client needs updates on the project.,3,inbox
+newsletter@example.com,jane@example.com,Monthly Newsletter,Check out our latest articles.,4,inbox
+spammer3@example.com,jane@example.com,Congratulations!,You have been selected for a special offer!,1,spam
+coworker@example.com,jane@example.com,Lunch Plans,Do you want to grab lunch tomorrow?,4,inbox
+jane@example.com,friend@example.com,Re: Weekend Plans,I am free on Saturday. Let me know the time.,3,sent
+admin@example.com,jane@example.com,Password Change Reminder,Your password will expire in 3 days.,2,inbox
